@@ -1,0 +1,1 @@
+# coinsightly-api
